@@ -4,7 +4,6 @@ def main() -> None:
     sum=sum_numbers(num, num2);
     if sum>10:
         print("Hello, World!")
-        print("Hello from python-project!!!")
         print("The sum", num, "and", num2, "is", sum)
     for i in range(11):
         print(i)
