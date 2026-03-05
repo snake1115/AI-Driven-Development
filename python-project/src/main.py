@@ -6,7 +6,7 @@ def main() -> None:
         print("Hello, World!")
         print("The sum", num, "and", num2, "is", sum)
     for i in range(11):
-        print(i)
+        print(i);
 
 def sum_numbers(num, num2):
     return num+num2;
